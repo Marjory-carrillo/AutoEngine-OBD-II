@@ -1,0 +1,8 @@
+{
+  "name": "AutoEngine OBD-II",
+  "description": "A high-performance automotive diagnostic and maintenance companion with AI-powered fault analysis, real-time sensor monitoring, and interactive vehicle anatomy guides.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
